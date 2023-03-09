@@ -5,5 +5,11 @@ date: "`r Sys.Date()`"
 site: bookdown::bookdown_site
 ---
 
-# Down the rabbit-hole
+# Adavnce notes
 
+- Handle EEG equipment with care!
+The EEG equipment is highly valuable as well as vulnerable. Cables and wires are extremely fragile. Do not twist or pull the cables, and follow the equipment/cleaning guidelines
+
+- Take good care of your participants
+Although running an EEG experiment may become all-day routine for you, this is mostly not the case for your participants. Remember to explain what you are doing, and make sure the participant feels free to ask questions at all times. In addition, the participant should feel comfortable at any time. Be careful while preparing the (skin of the) participant for the EEG measurement. Scrubbing should not be painful.
+Also, work in a hygienic fashion: do not use the same syringes, gel, needles, gauze sponges, etc., on more than one participant. Do not dip cotton swabs or syringes in the jar with gel after usage. Throw away gauze sponges, syringes, needles etc. that fell on the floor (i.e., do not use them on the participant again).

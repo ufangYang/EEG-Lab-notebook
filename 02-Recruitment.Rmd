@@ -1,0 +1,63 @@
+# Recruitment 
+
+## About Participants
+
+Participants will be recruited from the university community through various channels, including the **VPStundenangebote** mailing list and the **SONA system**, as well as any other preferred method of announcement.
+Participants must meet the following criteria:
+
+- Aged between 18 and 35 years
+- General good health
+- No history of neurological or psychiatric disorders
+- No contraindications for EEG recording (e.g. metallic implants)
+- No prior experience or knowledge of the Cyberball experiment
+- Respect the COVID restrictions 
+- Right-handed (optional)
+
+
+## Commnunication
+
+Brief the participant with the following information and confirm the time and date. Here is a template for your reference:
+
+```
+
+
+Thank you for expressing interest in our EEG experiment. We have scheduled you for [Date and Time]. Please confirm that this time is still convenient for you. 
+
+Before the experiment, it is important to keep the following in mind:
+- You must be in good health and meet the criteria outlined in the "About Participants" section. 
+- Please ensure that you adhere to the COVID restrictions. 
+- If you have not participated in the Cyberball experiment before, we kindly ask that you take a moment to read the instructions before the EEG experiment.
+
+
+```
+
+2. Send the confirmation
+
+Template:
+
+``` 
+
+This email is to confirm your participation in our EEG experiment on [Date and Time]. Please make sure to follow the instructions below in preparation for the experiment:
+
+- Do not consume any products with caffeine (e.g. cola, energy drinks, chocolate) for 12 hours prior to the experiment.
+- Wash your hair and rinse with clear water the evening before or the morning of the experiment. Do not use any hair conditioner or oil after washing.
+- If you have any psychological disorders or a history of health problems with normal or corrected to normal vision, please inform us as soon as possible.
+- After the EEG experiment, you may wash and dry your hair in the lab using our supplied towels, shampoo, and dryer. You may also bring your own towel for hygiene reasons.
+
+Please let us know if you have any questions or concerns. We are looking forward to your participation.
+
+```
+
+3. Send a reminder the day before the experiment:
+
+```
+This email is a friendly reminder about your participation in our EEG experiment tomorrow on [Date and Time]. Please make sure to follow the instructions outlined in your confirmation email to ensure a smooth and successful experiment.
+
+If you have any questions or need to reschedule, please do not hesitate to reach out.
+
+```
+
+EEG lab Address: Fabeckstraße 29, 14195 Berlin. You will find the entrance for the Center for Cognitive Neuroscience Berlin at the Freie Universität Berlin in Dahlem:[Location](https://drive.google.com/file/d/1jiB0JLVbwmrigVCtHYmEiC8I5562PoKL/view?usp=sharing)
+
+
+The duration of the experiment will be around 1.5 hours - 2 hours max. You can choose either to receive 20 euros or 2 VP hours as compensation after the experiment.

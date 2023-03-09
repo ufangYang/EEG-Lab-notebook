@@ -1,3 +1,10 @@
-down-the-rabbit-hole
-the-pool-of-tears
-a-caucus-race-and-a-long-tale
+adavnce-notes
+recruitment
+about-participants
+commnunication
+eeg-protocol
+preparing-for-testing
+before-the-participant-arrives
+once-the-participant-arrives
+capping-the-participant
+after-the-experiment

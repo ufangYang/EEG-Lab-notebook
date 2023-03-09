@@ -1,0 +1,86 @@
+# EEG Protocol
+
+Editor: Yu-Fang
+Contributors: Lea Kern
+
+- **IMPORTANT:** 
+  - The Brain Product electrodes are extremely delicate and very expensive. Always handle them gently and do not allow the electrodes themselves or the plugs to touch metal or water/gel.
+  - Experimental Timing: 
+    - Preparation: 15-30 minutes
+    - Testing: 2-3 hours
+    - Clean up: 30 minutes.
+  - Emergency number: XX and Lab location: JK 206, floor -1.
+  - Reminder for Participants: Be reminded of the COVID-related exclusion criteria one day before arrival and remember to wash your hair before the experiment.
+
+
+##  PREPARING FOR TESTING
+###  BEFORE THE PARTICIPANT ARRIVES
+- Ensure you have consent forms, payment, and a payment receipt
+- Check for the necessary materials 
+  - Syringes, abrasive Electrolyte-Gel, measuring tape, stickers, paper towels, cotton swab, 
+  - Dry and clean caps (no gel residue obstructing the holes)
+- Turn on and prepare computers 
+  - Simulation PC: open Psychopy and launch the script for your experiment
+  - EEG acquisition PC: open BrainVision Recorder and start a file for your new participant
+  - Stimulation Monitor: turn it on, prepare to run your experiment
+  - Note: Don’t use a recording computer to browse the Internet or playback multimedia 
+- Set up any equipment (e.g., response box) you may need 
+- Check amplifier battery 
+- Fill the syringes with electrolyte gel/abrasive paste, prepare a small container for the electrolyte gel/abrasive paste and apply stickers to facial electrodes while the participant completes the consent/questionnaires
+
+### ONCE THE PARTICIPANT ARRIVES
+- Instruct them to keep their personal belongings on the table in front of the entrance of the room. Phones and laptops should not be used in the recording room, neither by participants nor by experimenter 
+- Participants and experimenters should keep their face mask on all the time.  
+- Bring the participant to the table and seat them at the paperwork table to sign the consent forms (keep one per experiment)
+- Administer the Questionnaires, get the participant code (e.g., 33101)
+  - For Cyberball experiments, it is important that a participant did not participate before. 
+  - Kindly ask if a participant needs to use the bathroom before the experiment 
+
+## CAPPING THE PARTICIPANT
+- Measure head circumference around the widest part (just between the eyebrows to over the inion bump) and head length, from inion to nasion (Fig1a)
+- Clean the facial electrode sites
+  - Wipe area with alcohol, then with gel on paper towel
+  - Remove residue with wet paper towel
+  - Dry thoroughly
+- Apply four facial electrodes. Remove the paper cover from the sticker and attach it to the face. Position cables to point away from the face. Place a small dot of gel into the electrode with the syringe (do not scratch).
+  - VEOG up and VEOG down should be in line with the pupils
+  - HEOG left and HEOG right should be as close together as possible (e.g., right on the eyebrow and high on the cheekbone)
+  - Check VEOG electrodes do not obstruct vision when looking straight ahead (ask the participant if they see the electrodes)
+  
+- Select the proper sized cap for the participant’s head measurements. When in doubt, size down.
+- Place the cap on the participant, ensure the bottom central electrode (Cz) is at 50% of head length up from the nasion and 50% from the ear. Pull the tag in the back of the cap out from under the cap. The cap is attached to a chest strap. Ask the participant to fasten the strap so it is firm but comfortable.
+- Double-check the central electrode (Cz) should be located at the center of the head after attaching it to the chest strap. 
+
+- Check the fit. It should be comfortable but firm against the scalp (not bulging or puffy). Ears can be in or out, whichever gives a closer fit at the side of the head. Check the cap is on straight by pressing electrodes on the midline and asking the participant to say “centre”, “left”, or “right”.  "centre", "left", or "right". 
+
+- Without touching the cap, clean each electrode site and earlobe with alcohol (cotton swabs dipped in alcohol). Once each site and ear lobes are clean, dip the cotton swab into a small amount of electrolyte gel) and place the electrodes. Then insert the syringe into each site and slowly inject gel while withdrawing. Gel must touch the scalp (not just hair) – rock the syringe tip back and forward to part the hair. 
+  - The holes should be 75-100% filled, but not overflowing (too much gel can result in bridging of electrodes). 
+  
+  
+  - Place each electrode in the corresponding slot in the Input box.
+
+| Electrode | Slot |
+|-----------|------|
+| hEOG1 (left) | 1 |
+| hEOG2 (right) | 2 |
+| vEOG3 (upper) | 3 |
+| vEOG4 (down) | 4 |
+| AFz | 5 |
+| Fz | 6 |
+| FCz | GROUND |
+| Cz | 7 |
+| Pz | 8 |
+| F3 | 9 |
+| F4 | 10 |
+| P7 | 11 |
+| P8 | 12 |
+| Ground (Fcz) | GND1 |
+| Earlobe1 | REF1 |
+| Earlobe2 | REF2 |
+
+- Check the impedance for each electrode by connecting the electrode Input Box and the Electrode Impedance Meter. Ensure the symbol of the triangle on cable aligned with the triangle (you should be able to hear a *click* as they go in).
+- Bind the electrode’s cable together with a small black plastic hair clip (can be found near the sink) – ponytail style. This can help reduce tension on the apex or forehead wires. Ensure that the cables do not tangle Electrode wires should point towards the back of the head where the cables will gather.
+- Help the participant with their glasses if they wear them for computer viewing.
+- Turn on the Electrode Impedance Meter and see if Channel 1 and GND are both less than 10 KΩ. If not, wriggle a little gel using a cotton swab to the corresponding site, then add a small amount of gel if necessary. It's important to note that the meter can only display ONE reference value. Remove the electrode 1 and plug the REF2 to the slot of Channel 1 after channel < 10 KΩ. The independent for EOG channels should be 25 KΩ and electrodes <10 KΩ.
+- Lead the participant to the EEG recording room and sit before the screen. A stable head position should be ensured via chin rest for stability. Participants are instructed to stay as still as possible during the tasks.  To avoid eye blinks during the trials (they can blink in between as much as they like). They should keep their facial muscles as relaxed as possible.
+- Turn on the power and the amplifier then plug connectors into the amplifier, pressing down firmly until the side clips pop up. The blue light should be on and should not blink. If it is blinking, you have a problem with the battery. Please inform the lab member or Yu-Fang. Store the connector caps until the end of the experiment.
