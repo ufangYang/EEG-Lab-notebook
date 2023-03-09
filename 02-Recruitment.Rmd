@@ -10,13 +10,13 @@ Participants must meet the following criteria:
 - No history of neurological or psychiatric disorders
 - No contraindications for EEG recording (e.g. metallic implants)
 - No prior experience or knowledge of the Cyberball experiment
-- Respect the COVID restrictions 
+- Respect the COVID restrictions 
 - Right-handed (optional)
 
 
 ## Commnunication
 
-Brief the participant with the following information and confirm the time and date. Here is a template for your reference:
+Brief the participant with the following information and confirm the time and date. Please reserve the timeslot in our lab calender. Here is a template for your reference:
 
 ```
 
